@@ -11,8 +11,8 @@ Aplicación interna en **Streamlit** para capturar pedidos semanales de huevo, g
 ### 1. Clonar el proyecto
 
 ```bash
-git clone https://github.com/TU_USUARIO/pedidos-huevo-streamlit.git
-cd pedidos-huevo-streamlit
+git clone https://github.com/TU_USUARIO/pedidos-semanales.git
+cd pedidos-semanales
 ````
 
 ### 2. Sincronizar el entorno con uv
