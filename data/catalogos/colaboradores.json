@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nombre": "Claudia Cime",
+    "area": "Soporte SAP",
+    "correo": "claudia@grupocrio.com.mx",
+    "activo": false
+  },
+  {
+    "id": 4,
+    "nombre": "Erika Morales",
+    "area": "Soporte SAP",
+    "correo": "ericka@grupocrio.com.mx",
+    "activo": true
+  },
+  {
+    "id": 7,
+    "nombre": "Fabrizzio Ciau",
+    "area": "Inteligencia de negocio (BI)",
+    "correo": "jesus.ciau@grupocrio.com.mx",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Ignacio Olalde",
+    "area": "Inteligencia de negocio (BI)",
+    "correo": "ignacio@grupocrio.com",
+    "activo": true
+  },
+  {
+    "id": 8,
+    "nombre": "Javier Can",
+    "area": "Inteligencia de negocio (BI)",
+    "correo": "jesus.can@grupocrio.com.mx",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Jorge Flores",
+    "area": "Cartera",
+    "correo": "jroge@grupocrio.com",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Monica Gijon",
+    "area": "Soporte SAP",
+    "correo": "monica@grupocrio.com",
+    "activo": true
+  },
+  {
+    "id": 10,
+    "nombre": "Omar Eduardo López Loya",
+    "area": "Operación granja",
+    "correo": "osmar@grupocrio.com",
+    "activo": true
+  },
+  {
+    "id": 9,
+    "nombre": "Osmar López Ek",
+    "area": "Depto. IA",
+    "correo": "osdmar@grupocrio.com",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Rodrigo Ayala",
+    "area": "Soporte SAP",
+    "correo": "rodrigo@grupocrio.com",
+    "activo": true
+  }
+]

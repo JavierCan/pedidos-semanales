@@ -1,0 +1,20 @@
+[
+  {
+    "clave": "rejas_30_normal",
+    "nombre": "Num. Rejas de 30 piezas (normal)",
+    "maximo_individual": 3,
+    "activo": true
+  },
+  {
+    "clave": "rejas_30_jumbo",
+    "nombre": "Num. Rejas de 30 piezas (jumbo)",
+    "maximo_individual": 3,
+    "activo": true
+  },
+  {
+    "clave": "rejas_18_normal",
+    "nombre": "Num. Rejas de 18 piezas (normal)",
+    "maximo_individual": 3,
+    "activo": true
+  }
+]

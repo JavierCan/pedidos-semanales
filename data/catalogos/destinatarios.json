@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Compras corporativo",
+    "correo": "compras@empresa.com",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Capital humano",
+    "correo": "rh@empresa.com",
+    "activo": true
+  },
+  {
+    "id": 3,
+    "nombre": "Operación granja",
+    "correo": "operacion@empresa.com",
+    "activo": true
+  }
+]
