@@ -97,22 +97,6 @@ data/catalogos/config_envio.json
 
 ---
 
-## Cómo sincronizar en otra computadora
-
-Cada vez que alguien clone el proyecto, solo debe hacer esto:
-
-```bash
-git clone https://github.com/TU_USUARIO/pedidos-huevo-streamlit.git
-cd pedidos-huevo-streamlit
-uv sync
-```
-
-Y para abrir la app:
-
-```bash
-uv run streamlit run app.py
-```
-
 ---
 
 ## Estructura del proyecto
