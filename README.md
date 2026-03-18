@@ -1,6 +1,5 @@
 [README.md](sandbox:/mnt/data/README.md)
 
-````md
 # Pedidos de huevo semanal · v1
 
 Aplicación interna en **Streamlit** para capturar pedidos semanales de huevo, generar un archivo **Excel** a partir de un template y enviarlo por correo automáticamente.
